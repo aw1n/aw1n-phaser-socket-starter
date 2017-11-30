@@ -1,2 +1,8 @@
 # aw1n-phaser-socket-starter
-A phaser boilerplate with socket.io and the necessary goodies.
+A simple phaser boilerplate including socket.io and the necessary goodies.
+
+
+## Installation
+
+1.) Clone the repository
+2.) NPM Install in root directory
